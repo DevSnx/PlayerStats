@@ -1,30 +1,24 @@
 package de.snx.playerstats.file;
 
-import com.mojang.datafixers.TypeRewriteRule;
-import de.snx.statsapi.file.FileBase;
 import org.bukkit.configuration.file.FileConfiguration;
 
 public class ConfigFile extends FileBase {
 
     public ConfigFile(){
-        super("", "");
+        super("", "config");
         writeDefaults();
     }
 
     private void writeDefaults(){
         FileConfiguration cfg = getConfig();
 
-        cfg.addDefault("CONFIG.MESSAGE.PREFIX", "&8[&7PlayerStats&8]");
+        cfg.addDefault("CONFIG.SAVING.KILLS", true);
+        cfg.addDefault("CONFIG.SAVING.DEATHS", true);
+        cfg.addDefault("CONFIG.SAVING.PLACEDBLOCKS", true);
+        cfg.addDefault("CONFIG.SAVING.BROKENBLOCKS", true);
+        cfg.addDefault("CONFIG.SAVING.OPENCHESTS", true);
 
-        cfg.addDefault("CONFIG.MESSAGE.PLAYERKILL.SHOW", true);
-        cfg.addDefault("CONFIG.MESSAGE.PLAYERKILL.SOUND", true);
-
-        cfg.addDefault("CONFIG.MESSAGE.DEATH.SHOW", true);
-        cfg.addDefault("CONFIG.MESSAGE.DEATH.SOUND", true);
-
-        cfg.addDefault("CONFIG.MESSAGE.DEATHBYPLAYER.SHOW", true);
-        cfg.addDefault("CONFIG.MESSAGE.DEATHBYPLAYER.SOUND", true);
-
+        cfg.options().copyDefaults(true);
         saveConfig();
     }
 }

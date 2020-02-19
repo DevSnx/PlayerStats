@@ -44,29 +44,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="182" key="#Project_Structure" timestamp="1580863682319">
+    <state x="552" y="182" key="#Project_Structure" timestamp="1582074803231">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="182" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580863682319" />
-    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1580939306955">
+    <state x="552" y="182" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582074803231" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582074401728">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580939306955" />
-    <state width="1877" height="94" key="GridCell.Tab.0.bottom" timestamp="1580863926782">
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582074401728" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1582075354611">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="94" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580863926782" />
-    <state width="1877" height="94" key="GridCell.Tab.0.center" timestamp="1580863926782">
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582075354611" />
+    <state width="1877" height="43" key="GridCell.Tab.0.bottom" timestamp="1582075355238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="94" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580863926782" />
-    <state width="1877" height="94" key="GridCell.Tab.0.left" timestamp="1580863926782">
+    <state width="1877" height="43" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582075355238" />
+    <state width="1877" height="43" key="GridCell.Tab.0.center" timestamp="1582075355238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="94" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580863926782" />
-    <state width="1877" height="94" key="GridCell.Tab.0.right" timestamp="1580863926782">
+    <state width="1877" height="43" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582075355238" />
+    <state width="1877" height="43" key="GridCell.Tab.0.left" timestamp="1582075355237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="94" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580863926782" />
+    <state width="1877" height="43" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582075355237" />
+    <state width="1877" height="43" key="GridCell.Tab.0.right" timestamp="1582075355238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="43" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582075355238" />
   </component>
 </project>

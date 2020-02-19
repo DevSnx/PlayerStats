@@ -1,0 +1,7 @@
+name: PlayerStats
+version: 1.0.0
+author: Snx
+website: https://www.spigotmc.org/members/snx.838891/
+depend:
+  - StatsAPI
+main: de.snx.playerstats.Stats
