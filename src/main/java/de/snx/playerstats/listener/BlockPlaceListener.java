@@ -6,10 +6,7 @@ import de.snx.statsapi.manager.other.PlayerStats;
 import org.bukkit.Material;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
-import org.bukkit.event.block.BlockBreakEvent;
 import org.bukkit.event.block.BlockPlaceEvent;
-
-import java.util.List;
 
 public class BlockPlaceListener implements Listener {
 

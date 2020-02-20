@@ -17,6 +17,8 @@ public class ConfigFile extends FileBase {
         cfg.addDefault("CONFIG.SAVING.PLACEDBLOCKS", true);
         cfg.addDefault("CONFIG.SAVING.BROKENBLOCKS", true);
         cfg.addDefault("CONFIG.SAVING.OPENCHESTS", true);
+        cfg.addDefault("CONFIG.MESSAGE.KILLEDBYPLAYER", true);
+        cfg.addDefault("CONFIG.MESSAGE.DEATH", true);
 
         cfg.options().copyDefaults(true);
         saveConfig();
